@@ -1,5 +1,5 @@
-import User from "../../models/user.js";
-import Post from "../../models/post.js";
+// import User from "../../models/user.js";
+// import Post from "../../models/post.js";
 import cloudinary from "cloudinary";
 import fs from "fs";
 import dotenv from "dotenv";

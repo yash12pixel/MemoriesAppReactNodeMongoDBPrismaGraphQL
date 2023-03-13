@@ -1,4 +1,4 @@
-import User from "../../models/user.js";
+// import User from "../../models/user.js";
 import { hashPassword, getUtcDate, comparePassword } from "../../utils/util.js";
 import otpGenerator from "otp-generator";
 import sendEmail from "../../utils/emailUtility.js";
